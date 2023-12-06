@@ -2,6 +2,10 @@
 
 ColorClicker is a simple and interactive game where players are presented with a grid of circles, and the objective is to click on the circle that has a different color from the others. The game is implemented using Python and the Tkinter library for the graphical user interface.
 
+## Game Screenshot
+
+![Game Screenshot](screenshot.png)
+
 ## Features
 
 - **Graphical User Interface (GUI):** The game utilizes Tkinter for creating an interactive and visually appealing interface.
